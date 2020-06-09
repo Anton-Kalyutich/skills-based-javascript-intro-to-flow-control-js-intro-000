@@ -37,7 +37,8 @@ function switchAge(age) {
     case 16:
     case 17:
     case 18:
-    case 19
+    case 19:
+    default: 
   }
 
 }
